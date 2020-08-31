@@ -1,6 +1,8 @@
 # Auto-Bday
 Send a birthday message via Whatsapp automatically to specified numbers with/without a custom message.
 
+## [Releases](https://github.com/modicin/Auto-Bday/releases)
+
 ## Storing Birthdays
 All birthday data is stored in a csv file names 'birthdays.csv' in the same directory as the python files.
 
