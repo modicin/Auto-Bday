@@ -14,4 +14,8 @@ All birthday data is stored in a csv file names 'birthdays.csv' in the same dire
 |Message|Custom Message to send, if left blank, premade message will be sent(see below)|
 |Sent this year?|Placeholder to prevent multiple sendings in a day, set as '0' when entering birthdays|
 
+### Date format
+Dates in the csv file should follow a day-month order as they do in the UK, first time setup for switching the two is coming in future releases.
+The following separators between day and month are '-', '/', '.' and you can write dates with or without a preceding zero eg 2 or 02.
+
 *This is not a very well written program and not ready to be easily imported into other programs, I will work very hard to to perfect it and suggestions or incredibly welcomed*
